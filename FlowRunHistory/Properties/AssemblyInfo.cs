@@ -4,11 +4,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("FlowRunHistory")]
+[assembly: AssemblyTitle("PowerAutomateRunHistory")]
 [assembly: AssemblyDescription("Plugin to fetch flow run history by name, date range (restricted to return history for past 30 days)")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("Tini Salunkhe")]
-[assembly: AssemblyProduct("FlowRunHistory")]
+[assembly: AssemblyProduct("PowerAutomateRunHistory")]
 [assembly: AssemblyCopyright("Copyright © 4S Dynamics 2025")]
 [assembly: AssemblyMetadata("Author", "Tini Salunkhe")]
 [assembly: AssemblyTrademark("")]

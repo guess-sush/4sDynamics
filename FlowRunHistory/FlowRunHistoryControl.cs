@@ -9,7 +9,7 @@ using XrmToolBox.Extensibility;
 using Microsoft.Xrm.Sdk;
 using Microsoft.Xrm.Sdk.Query;
 
-namespace FlowRunHistory
+namespace PowerAutomateRunHistory
 {
     public class FlowRunHistoryControl : PluginControlBase
     {

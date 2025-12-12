@@ -8,8 +8,8 @@
     <ProjectGuid>{0D395CA7-F4E2-48B6-BAEB-1EC8B20C6B8D}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>FlowRunHistory</RootNamespace>
-    <AssemblyName>FlowRunHistory</AssemblyName>
+    <RootNamespace>PowerAutomateRunHistory</RootNamespace>
+    <AssemblyName>PowerAutomateRunHistory</AssemblyName>
     <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <NuGetPackageImportStamp>

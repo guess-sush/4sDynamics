@@ -1,4 +1,4 @@
-﻿namespace FlowRunHistory
+﻿namespace PowerAutomateRunHistory
 {
     /// <summary>
     /// This class can help you to store settings for your plugin
